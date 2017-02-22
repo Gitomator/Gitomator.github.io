@@ -12,8 +12,8 @@ GitHub repos).
 Usage:
 
 ```sh
- $ bin/task/gitomator-enable-ci REPOS-CONFIG
- $ bin/task/gitomator-disable-ci REPOS-CONFIG
+ $ gitomator-enable-ci REPOS-CONFIG
+ $ gitomator-disable-ci REPOS-CONFIG
 ```
 
  > _Tip:_ You can specify the `--sync` command-line flag, to get Gitomator to sync your
